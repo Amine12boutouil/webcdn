@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){$('.header').height($(window).height());Waves.init();$('.carousel').carousel();jQuery(window).resize(function(){$('.header').height($(window).height());});smoothScroll.init({updateURL:false});});
